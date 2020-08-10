@@ -65,4 +65,5 @@
     "rollup-plugin-terser": "^5.1.2",
     "svelte": "^3.19.1"
   }
+  
 }
